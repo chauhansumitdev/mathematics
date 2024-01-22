@@ -1,0 +1,23 @@
+// more of the notes i am writing on my note book this is just a topic wise ref.
+// ref book - Introduction to linear algebra.
+-------------------------------------------------------------------------------------------------------
+vectors
+cv+dw 
+fundamental operations - addition and multiplication
+- linear combination
+
+linear combination is multiplication of two vectors v and w with c and d respectively and then summing of the result.
+
+for a two dimensional vector it can be represented by a [x y]
+where x is the x dist and y is the y dist
+
+similarly there is a three dimensional vector - [x y z]
+
+the length of the vector is the multiplication of the vector with itself - in other sense it  is the dot product of the vector with itself[x1 y1].[x1 y1]
+then the result obtained is sq root .
+this is the single valued result - if the val is -ve the angle is greater than 90 if 0 90 and if +ve then the angle is smaller than 90
+
+one more conclusion can be derived from this is that we can calculate the unit vector - its like a vector having length 1, 
+mathematically vector having the xvalsq + yvalsq = 1, that is actually the hypot,
+now this can be done for any vector - just by dividing the co-ordinates of the vector with its length.
+
