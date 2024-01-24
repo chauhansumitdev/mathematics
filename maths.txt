@@ -21,3 +21,11 @@ one more conclusion can be derived from this is that we can calculate the unit v
 mathematically vector having the xvalsq + yvalsq = 1, that is actually the hypot,
 now this can be done for any vector - just by dividing the co-ordinates of the vector with its length.
 
+let there are two unit vectors u and v ( ||unit vector|| == 1) 
+then their dot product gives the cosine of the angle between them.
+
+two important inequality =
+Schwarz inequality = |v.u| <= ||v||||u||
+Triangle inequality = ||v+w|| <= ||v|| + ||u||
+
+this introduces to matrices
