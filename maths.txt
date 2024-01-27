@@ -29,3 +29,7 @@ Schwarz inequality = |v.u| <= ||v||||u||
 Triangle inequality = ||v+w|| <= ||v|| + ||u||
 
 this introduces to matrices
+>> insert text here
+
+
+Solving Linear Equations
