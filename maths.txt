@@ -50,4 +50,4 @@ basis id the set of n vectors
 - span the space that is the space is n dimensional.
 
 
-
+the area of the matrix transform is scalled equally that value is called the determinant of the matrix
