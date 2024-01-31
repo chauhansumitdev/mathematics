@@ -42,5 +42,7 @@ a system of linaer eq can have no sol, unique sol or many sols
 the coordinate system can also be changed for changing the reference of the vector being addressed in reference to another vector
 this is basis vector.
 
+crux - the matrix is a function sort of(not directly saying but it seems like) that transforms the vector to something new vector in the space.
+
 
 
