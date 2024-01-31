@@ -1,5 +1,4 @@
-// more of the notes i am writing on my note book this is just a topic wise ref.
-// ref book - Introduction to linear algebra.
+// ref book - Introduction to linear algebra, courcera audit cources, etc, 
 -------------------------------------------------------------------------------------------------------
 vectors
 cv+dw 
@@ -33,3 +32,15 @@ this introduces to matrices
 
 
 Solving Linear Equations
+the idea of elimination
+
+
+a system of linaer eq can have no sol, unique sol or many sols
+
+>>>>>>>>>>>>>>>>>>>>>
+
+the coordinate system can also be changed for changing the reference of the vector being addressed in reference to another vector
+this is basis vector.
+
+
+
