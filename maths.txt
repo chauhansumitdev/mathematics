@@ -44,5 +44,10 @@ this is basis vector.
 
 crux - the matrix is a function sort of(not directly saying but it seems like) that transforms the vector to something new vector in the space.
 
+basis vector -  
+basis id the set of n vectors 
+- not linear combinations of each other that is linearly independent 
+- span the space that is the space is n dimensional.
+
 
 
